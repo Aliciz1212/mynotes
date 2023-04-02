@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343723674775",
+    "project_id": "alice-note",
+    "storage_bucket": "alice-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343723674775:android:7484a6da398ea8f8dc2dd2",
+        "android_client_info": {
+          "package_name": "com.helloworld.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343723674775-gu6u9lkfs3or9c0trgc1ktf4gfor99ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDwst-EkEk0qCPnxiDBqYIhnG2eTXwyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343723674775-gu6u9lkfs3or9c0trgc1ktf4gfor99ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
